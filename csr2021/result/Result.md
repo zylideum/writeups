@@ -3,7 +3,7 @@
 ### Description: 
 > I really want to know my test result, but unfortunately its additionally protected. I attached the email. Maybe you can help?
 ### Included Files:
-> [result.tar.gz](csr2021/result/Test_Result.eml)
+> [result.tar.gz](https://github.com/zylideum/writeups/blob/main/csr2021/result/Test_Result.eml)
 ### Step 1
 First, I analyzed the contents of the conversation rather than any headers or excess information.
 What stood out was the German and English translations of the doctor's communications:
