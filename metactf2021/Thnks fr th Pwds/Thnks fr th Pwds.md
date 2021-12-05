@@ -18,3 +18,6 @@ Sure enough, it decoded properly.
   <summary>Flag Spoiler</summary>
   MetaCTF{encoding_is_N0T_the_same_as_encryption!!}
 </details>
+
+## Learning Takeaways
+We learn how to identify and decode Base64 strings.
